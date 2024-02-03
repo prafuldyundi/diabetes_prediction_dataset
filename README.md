@@ -24,4 +24,4 @@ The goal of this project is to perform a comprehensive analysis on a dataset con
 #### 16. Define a unique constraint on the "patient_id" column to ensure its values are unique.
 #### 17. Create a view that displays the Patient_ids, ages, and BMI of patients.
 #### 18. Suggest improvements in the database schema to reduce data redundancy and improve data integrity.
-# 19. Explain how you can optimize the performance of SQL queries on this dataset.
+#### 19. Explain how you can optimize the performance of SQL queries on this dataset.
